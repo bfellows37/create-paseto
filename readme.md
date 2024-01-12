@@ -18,5 +18,5 @@ PASETO_SYMKEY=your-symkey-here create-paseto my-entity-modify,my-other-grant
 or if you already set an envvar in your bash session:
 
 ```bash
-npx create-paseto my-entity-modify,my-other-grant
+create-paseto my-entity-modify,my-other-grant
 ```
