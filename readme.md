@@ -1,3 +1,11 @@
+# Create-paseto
+
+## What does this tool do?
+
+this is a command line tool that produces a paseto good for one hour with the specified grants
+
+## How do I use it?
+
 Requirements:
 
 - nodejs
